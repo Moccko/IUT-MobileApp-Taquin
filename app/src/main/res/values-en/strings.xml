@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sliding puzzle</string>
+    <string name="impossible">Impossible to move this piece</string>
+    <string name="get_image">Generate an image</string>
+    <string name="play">Play with this picture</string>
+    <string name="taquin">Sliding puzzle</string>
+    <string name="load">Pick an image</string>
+    <string name="quit">Quit</string>
+    <string name="congrats">Congratulations !</string>
+    <string name="replay">Play again</string>
+    <string name="action_settings">Settings</string>
+    <string name="success">You succeeded this level, Why not trying another one ?</string>
+    <string name="failure">Would you play this level again ? Your time and your score won\'t be saved.</string>
+    <string name="pity">Oh no !</string>
+    <string name="stop">Stop</string>
+    <string name="cancel">Cancel</string>
+    <string name="pick">Pick an image</string>
+    <string name="show_image">Show the image</string>
+    <string name="size">Choose a size for the grid</string>
+    <string name="erase_scores">Erase scores</string>
+    <string name="close">Close</string>
+    <string name="solution">Here is the final image</string>
+</resources>

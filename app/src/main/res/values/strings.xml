@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Taquin</string>
+    <string name="action_settings">Réglages</string>
+    <string name="impossible">Impossible de déplacer ce morceau</string>
+    <string name="get_image">Générer une image</string>
+    <string name="play">Jouer avec cette image</string>
+    <string name="taquin">Taquin</string>
+    <string name="load">Charger une image</string>
+    <string name="quit">Quitter</string>
+    <string name="replay">Rejouer</string>
+    <string name="success">Vous avez réussi ce niveau, pourquoi ne pas en tenter un autre ?</string>
+    <string name="congrats">Félicitations !</string>
+    <string name="failure">Souhaitez-vous tout de même recommencer la grille ? Votre temps et votre score ne seront pas sauvegardés.</string>
+    <string name="pity">Dommage !</string>
+    <string name="stop">Arrêter</string>
+    <string name="cancel">Annuler</string>
+    <string name="size">Choisissez une taille de grille</string>
+    <string name="pick">Choisissez une image</string>
+    <string-array name="choices">
+        <item>3 × 3</item>
+        <item>4 × 4</item>
+        <item>5 × 5</item>
+        <item>6 × 6</item>
+    </string-array>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="erase_scores">Effacer les scores</string>
+    <string name="show_image">Montrer l\'image</string>
+    <string name="close">Fermer</string>
+    <string name="solution">Voici l\'image finale</string>
+</resources>
